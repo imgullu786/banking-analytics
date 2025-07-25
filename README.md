@@ -10,7 +10,7 @@ The dashboard enables business stakeholders to **monitor KPIs**, assess **branch
 ## Main Page
 ![App Screenshot](/page1.jpeg)
 
-##Page 2
+## Page 2
 ![App Screenshot](/page2.jpeg)
 
 ## 🧱 Dataset Summary

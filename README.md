@@ -1,10 +1,6 @@
 readme_content = """
 # 🏦 Banking Analytics Dashboard – Power BI
 
-## Schema
-![App Screenshot](/schema.jpeg)
-
-
 ## 📊 Overview
 This Power BI dashboard simulates a real-world **banking analytics** scenario using synthetic data for 10,000 customers, 20 branches, and multiple banking products.
 
@@ -32,3 +28,5 @@ The project uses six relational CSV datasets:
 
 ---
 
+## Schema
+![App Screenshot](/Schema.jpeg)
